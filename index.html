@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BMI Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- The BMI formula is: BMI = weight (kg) / (height (m) * height (m)). -->
+    <div class="container">
+        <div class="card">
+            <div class="card-title">
+                <h1 class="title">BMI Calculator</h1>
+            </div>
+            <div class="card-body">
+                <p class="error"></p>
+                <div class="input-group">
+                    <label for="weight">Weight</label>
+                    <input type="number" name="weight" id="weightInput" placeholder="kg">
+                </div>
+                <div class="input-group">
+                    <label for="height">Height</label>
+                    <input type="number" name="height" id="heightInput" placeholder="meter">
+                </div>
+                <button class="calculate-btn" id="calculateBtn">Calculate</button>
+
+                <div class="result">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
