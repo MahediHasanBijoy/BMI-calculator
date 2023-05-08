@@ -10,6 +10,4 @@ HTML, CSS, JavaScript
 
 ## Demo
 
-Insert gif or link to demo
-
 [demo.webm](https://user-images.githubusercontent.com/25426681/236815118-6affe455-8b0e-4afb-b155-256574be9a79.webm)
