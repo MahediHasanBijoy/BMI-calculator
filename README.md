@@ -7,6 +7,9 @@ Calculate your body mass index to track your health according to your weight. Th
 ## 🛠 Used Tools
 HTML, CSS, JavaScript
 
+## Live Link
+https://bmi-calculator12.netlify.app/
+
 
 ## Demo
 
